@@ -5,7 +5,7 @@ $(document).ready(function () {
 
     // GIPHY API Key: RGBhBrKTl2Pi3OqP0W3hmgFy6aTylQr2
     var topics = ["iron man", "black widow", "thor", "captain america", "hulk",
-                 "hawkeye", "black panther", "ant-man", "doctor strange", "spider-man",
+                 "hawkeye+marvel", "black panther", "ant-man", "doctor strange", "spider-man",
                   "wolverine", "daredevil", "jessica jones", "luke cage", "iron fist", 
                   "drax", "gamora", "rocket raccoon", "groot", "star lord"];
 

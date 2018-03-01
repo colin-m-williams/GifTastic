@@ -1,4 +1,9 @@
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
 button, input[type=submit] {
+    font-family: 'Kanit', sans-serif;
 	background-color: #4682B4;
 	border: none;
 	border-radius: 8px;
